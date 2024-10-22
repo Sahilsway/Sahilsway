@@ -29,7 +29,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsway360" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/Sahilsway" target="blank">
-    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://iconscout.com/free-icon/leetcode-3521542)" alt="sahilsway360" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo" alt="sahilsway360" height="30" width="40" />
   </a>
 </p>
 
