@@ -1,40 +1,22 @@
-<h1 align="center">Hi there👋, This is Sahil</h1>
-<h3 align="center">I'm passionate in coding, still exploring new tech fields like data science and game development after learning fullstack web development, software development.</h3>
+<div align="center">
+<h1>Hi there👋, This is Sahil</h1>
 
-- 🔭 I’m currently working on **KodeVana**
+![](under-construction.gif)
 
-- 🌱 I’m currently learning **Data science with Python**
+<pre>
+    💼 BCA @ Rangia College • Jr. SWE • Front-end dev 
+    💻 Dev System Setup • NixOS • Vim • Docker
+    📖 Software architecture • Distributed systems
+    🎮 Music • Mobile Games • ~Anime • Code • ~Guitar 
+</pre>
 
-- 👨‍💻 All of my projects are available at [Cerrently_working_on_it](Cerrently_working_on_it)
+check out my latest work: [BPF](https://play.google.com/store/apps/details?id=com.kodevana.bpf)
 
-- 📝 I regularly write articles on [Cerrently_working_on_it](Cerrently_working_on_it)
+reach me @[mail me](mailto:sahilswargiary.personal@gmail.com)
 
-- 💬 Ask me about **react, Java, Python**
+social links: [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/sahilsway360)
 
-- 📫 How to reach me **sahilswargiary.personal@gmail.com**
-
-- 📄 Know about my experiences [Cerrently_working_on_it](Cerrently_working_on_it)
-
-- ⚡ Fun fact **Did you know that the term "debugging" in programming originated from an actual insect?**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/sahilsway" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahilsway" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/sahilsway360" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsway360" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sahilsway360" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsway360" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Sahilsway" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo" alt="sahilsway360" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>  
@@ -56,16 +38,11 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
 </p>
+</div>
