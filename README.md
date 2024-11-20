@@ -34,15 +34,15 @@
 
 <br>
 
-<img width=600 src='https://github-readme-stats.vercel.app/api?username=sahilsway&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=450 src='https://github-readme-stats.vercel.app/api?username=sahilsway&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
 <br>
 
-<img width=600 src='https://github-readme-streak-stats.herokuapp.com/?user=sahilsway&theme=vue-dark&hide_border=true' />
+<img width=450 src='https://github-readme-streak-stats.herokuapp.com/?user=sahilsway&theme=vue-dark&hide_border=true' />
 
 <br>
 
-<img width=600 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsway&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=450 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsway&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 <br>
 
