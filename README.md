@@ -16,7 +16,7 @@
     💼 BCA @ Rangia College • Jr. SWE • Front-end dev 
     💻 Dev System Setup • NixOS • Vim • Docker
     📖 Software architecture • Distributed systems
-    🎮 Music • Mobile Games • ~Anime • Code • ~Guitar 
+    🎮 Music • ~Anime • Code • ~Guitar • Mobile Games
 </pre>
 
 <br>
