@@ -13,10 +13,12 @@
 <br>
 
 <pre>
+    <h3>
     💼 BCA @ Rangia College • Jr. SWE • Front-end dev 
-    💻 Dev System Setup • NixOS • Vim • Docker
+    💻 Dev System • NixOS • Vim • Docker
     📖 Software architecture • Distributed systems
     🎮 Music • ~Anime • Code • ~Guitar • Mobile Games
+    </h3>
 </pre>
 
 <br>
