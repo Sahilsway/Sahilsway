@@ -14,7 +14,7 @@
 
 <pre>
     <h3>
-    💼 BCA @ Rangia College • Jr. SWE • Front-end dev 
+    💼 BCA @ Rangia College • Jr. SWE • Full stack dev 
     💻 Dev System • NixOS • Vim • Docker
     📖 Software architecture • Distributed systems
     🎮 Music • ~Anime • Code • ~Guitar • Mobile Games
