@@ -15,7 +15,7 @@
 <pre>
     <h3>
     💼 BCA @ Rangia College • Jr. SWE • Full stack dev 
-    💻 Dev System • NixOS • Vim • Docker
+    💻 Dev System • NixOS -> Arch • Vim • Docker
     📖 Software architecture • Distributed systems
     🎮 Music • ~Anime • Code • ~Guitar • Mobile Games
     </h3>
